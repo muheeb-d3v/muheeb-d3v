@@ -3,8 +3,9 @@
   🎓 CS Student | 💻 Web Developer | 📊 Aspiring Data Analyst  
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0AEFFF&center=true&vCenter=true&multiline=true&width=435&lines=Passionate+Developer+%7C+Learning+by+Building;Open+to+Internships+%7C+Remote+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0AEFFF&center=true&vCenter=true&width=600&lines=Passionate+Developer+%7C+Learning+by+Building;Open+to+Internships+%26+Remote+Roles;Focused+on+Web+%26+Data+Projects" alt="Typing SVG" />
 </p>
+
 
 ---
 
