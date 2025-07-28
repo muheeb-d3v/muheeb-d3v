@@ -38,6 +38,6 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 📧 Email: muheeb.dev@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourname]([https://linkedin.com/in/](https://www.linkedin.com/in/muheeb-ahmed-678692377/))  
 - 🌍 Location: Remote | Pakistan  
