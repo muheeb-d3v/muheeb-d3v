@@ -13,13 +13,6 @@
 
 ---
 
-## 📘 Certifications
-
-- ✅ Full Stack Web Development – Aptech (2024)  
-- ✅ Python for Data Analysis – CodeWithHarry (2025)  
-
----
-
 ## 🚀 What I'm Working On
 
 - Building web projects using Laravel and JavaScript  
