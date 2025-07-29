@@ -3,7 +3,8 @@
   🎓 CS Student | 💻 Web Developer | 📊 Aspiring Data Analyst  
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0AEFFF&center=true&vCenter=true&width=600&lines=Passionate+Developer+%7C+Learning+by+Building;Open+to+Internships+%26+Remote+Roles;Focused+on+Web+%26+Data+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0AEFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst+%7C+Python+Enthusiast;Completed+Python+Course+%7C+Hands-on+Projects;Exploring+Data+%7C+Visualization+%7C+Storytelling;Open+to+Internships+%26+Remote+Opportunities" alt="Typing SVG" />
+
 </p>
 
 
@@ -13,7 +14,7 @@
 
 - 🎓 Computer Science Student at **Cantt. Public Degree College**
 - 🌐 Certified in Full Stack Web Development (Aptech, 2024)
-- 🐍 Certified in Python for Data Analysis (CodeWithHarry, 2025)
+- 🐍 Certified in Python for Data Analysis (Google, 2025)
 - 👨‍💻 Currently building **data dashboards** and **full-stack apps**
 - 🔭 Open to **internships**, **collaborations**, and **remote opportunities**
 
